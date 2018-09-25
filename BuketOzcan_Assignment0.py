@@ -17,4 +17,4 @@ Q=(T_i-T_o)/Rtotal
 T_1=T_i-Q*Rconv_1
 print("Total resistance (Rtotal) is "+str(Rtotal))
 print("The heat transfer rate (Q) is "+ str(Q))
-print("Temperature of inner surface (T_1) is "+str(T_1))
+print("Temperature of inner surface is "+str(T_1))
